@@ -1,13 +1,12 @@
 bp3==0.0.12.7
 fair-esm==1.0.3
 importlib-resources==5.8.0
-numpy==1.20.2
+numpy==1.22
 pandas==1.4.3
 plotly==5.8.0
 python-dateutil==2.8.2
 pytz==2022.1
 six==1.16.0
 tenacity==8.0.1
-torch==1.12.0
-typing-extensions==4.3.0
+typing-extensions==4.15.0
 zipp==3.8.0
