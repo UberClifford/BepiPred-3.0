@@ -17,7 +17,7 @@ If you are using conda for virtualization you can do,
 conda create -n bp3_env python=3.10
 conda activate bp3_env
 ```
-Install torch with gpu support (e.g. if you driver supports CUDA 12.4)
+Install torch with gpu support (e.g. if your driver supports CUDA 12.4)
 ```bash
 pip install torch --index-url https://download.pytorch.org/whl/cu124
 ```
@@ -101,6 +101,7 @@ are false positives, meaning that they do not interact directly with an antibody
 If you found BepiPred-3.0 useful in your research, please cite,
 
 [BepiPred-3.0: Improved B-cell epitope prediction using protein language models](https://doi.org/10.1002/pro.4497)
+
 
 
 
